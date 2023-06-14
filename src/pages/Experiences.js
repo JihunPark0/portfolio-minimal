@@ -3,11 +3,7 @@ export default function Experiences(props) {
   return (
     <div className="mb-5">
       <p className="mb-5">
-        This is the experiences in the U Developed Object Oriented Web
-        Applicaiton Used primarily HTML,CSS,
-        <br /> <br />
-        JavaScript for the front end and used PHP for server side. Created an
-        API to access a relational database I designedK
+        This is my experience since I've arrived in the UK in 2017
       </p>
       {props.experiences.map((experience) => {
         return (
