@@ -23,8 +23,8 @@ export default function Home() {
           Teamwork is my forte, and I relish in gaining new insights that
           contribute to my career aspirations. Now, I'm thrilled to seek a
           placement year in software development within the IT sector. Ready to
-          join forces and create remarkable things! Now, I'm eager to find a
-          placement year in the IT sector, with a keen interest in software
+          join forces and create remarkable things! Now, I'm eager to find
+          experiences in the IT sector, with a keen interest in software
           development roles.
           <br />
           <br />
