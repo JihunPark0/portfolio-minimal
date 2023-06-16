@@ -8,11 +8,11 @@ export default function Home() {
     <>
       <div className=" mb-5">
         <p className=" text-black">
-          Hi I'm Jihun Park. As a proactive, inquisitive, and tech-savvy
-          individual, I've sharpened my critical thinking process through
-          earning the 'CREST' gold award at A-level, winning a university-wide
-          startup competition, and currently mentoring Level-4 Computer Science
-          students.
+          I'm Jihun Park. I consider myself to be a proactive, inquisitive, and
+          tech-savvy individual, and I think this is reflected in my
+          achievements to date. I won the 'CREST' gold award at A-level, the
+          Kingston University Bright Ideas business startup competition, and am
+          currently mentoring level-4 Computer Science students.
           <br />
           <br />
           Having lived and studied independently in Korea, Singapore, and
@@ -20,12 +20,11 @@ export default function Home() {
           communication skills.
           <br />
           <br />
-          Teamwork is my forte, and I relish in gaining new insights that
-          contribute to my career aspirations. Now, I'm thrilled to seek a
-          placement year in software development within the IT sector. Ready to
-          join forces and create remarkable things! Now, I'm eager to find
-          experiences in the IT sector, with a keen interest in software
-          development roles.
+          Teamwork is my forte, and I enjoy gaining new insights that contribute
+          to my career aspirations. I am seeking a placement year in software
+          development within the IT sector where I can broaden my industry
+          experience, and am particularly interested in software development
+          roles.
           <br />
           <br />
           View my CV <ModalCV /> or take a look at some of the{" "}

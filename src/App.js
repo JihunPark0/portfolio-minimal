@@ -45,6 +45,7 @@ function App() {
                   path="/experiences"
                   element={<Experiences experiences={experiences} />}
                 />
+                <Route path="/*" element={<Home />} />
               </Routes>
             </Navbar>
           </div>
