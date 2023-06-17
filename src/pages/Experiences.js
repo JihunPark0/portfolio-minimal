@@ -2,7 +2,7 @@ import { useState } from "react";
 export default function Experiences(props) {
   return (
     <div className="mb-5">
-      <p className="mb-5">
+      <p className="mb-2">
         This is my experience since I've arrived in the UK in 2017
       </p>
       {props.experiences.map((experience) => {
