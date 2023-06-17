@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Experiences from "./pages/Experiences";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 function App() {
   const [experiences, setExperiences] = useState([
