@@ -1,4 +1,3 @@
-import { useState } from "react";
 //importing img assets
 import recipeApp from "../assets/recipeApp.png";
 import nebula from "../assets/nebula.png";

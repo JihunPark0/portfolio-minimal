@@ -1,6 +1,7 @@
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Experiences from "./pages/Experiences";
 import { useState, useEffect } from "react";
